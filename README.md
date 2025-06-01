@@ -31,6 +31,7 @@ Currently, I work as a Junior Takedown Analyst, identifying and mitigating digit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <center>
   <div style="display: flex; flex-wrap: nowrap; overflow-x: hidden; justify-content: center; align-items: center; max-width: 640px;">
