@@ -2,9 +2,7 @@
 
 ## 📝 About Me
 
-I'm an IT professional with solid experience in technical support, system configuration, and cybersecurity. I began my career as an IT intern, where over nearly two years I developed practical skills that led me to become an IT Assistant. I worked with Windows 10/11, Linux, Office 365, Outlook, Teams, OneDrive, and internal tools, providing both remote and phone support. I also handled equipment installation and testing, inventory management, network monitoring, and security camera reporting.
-
-Currently, I work as a Junior Takedown Analyst, identifying and mitigating digital threats such as phishing, scams, fake apps, and brand abuse. I support takedown processes with platforms, apply OSINT techniques, analyze domain reputation, and collaborate with cybersecurity and legal teams to protect brand integrity.
+I work as a Junior Takedown Analyst, identifying and mitigating digital threats such as phishing, scams, fake apps, and brand abuse. I support takedown processes with platforms, apply OSINT techniques, analyze domain reputation, and collaborate with cybersecurity and legal teams to protect brand integrity.
 
 🗣️ I have an advanced level of English and I'm always looking to improve. I'm also learning Spanish and consistently practicing to expand my communication skills in international environments.
 
