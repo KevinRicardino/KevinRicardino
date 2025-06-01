@@ -33,7 +33,7 @@ Currently, I work as a Junior Takedown Analyst, identifying and mitigating digit
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 <center>
-  <div style="display: flex; flex-wrap: nowrap; overflow-x: hidden; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-wrap: nowrap; overflow-x: hidden; justify-content: center; align-items: center; max-width: 640px;">
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=KevinRicardino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
