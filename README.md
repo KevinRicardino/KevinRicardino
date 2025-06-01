@@ -33,16 +33,16 @@ Currently, I work as a Junior Takedown Analyst, identifying and mitigating digit
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 <center>
-  <div style="display: flex; gap: 10px; flex-wrap: nowrap; overflow-x: auto; align-items: center;">
+  <div style="display: flex; gap: 10px; flex-wrap: nowrap; overflow-x: auto; align-items: center; justify-content: center;">
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=KevinRicardino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-      style="height: 150px; width: auto; max-width: 100%; object-fit: contain; flex-shrink: 0;"
+      style="height: 150px; width: auto; max-width: 50%; object-fit: contain; flex-shrink: 1;"
     />
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRicardino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      style="height: 150px; width: auto; max-width: 100%; object-fit: contain; flex-shrink: 0;"
+      style="height: 150px; width: auto; max-width: 50%; object-fit: contain; flex-shrink: 1;"
     />
   </div>
 </center>
