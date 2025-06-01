@@ -26,7 +26,7 @@ I work as a Junior Takedown Analyst, identifying and mitigating digital threats 
 
 ---
 
-## 💻 Technologies I Work With
+## 💻 Technologies and tools 🛠️
 
 <div align="left">
 
