@@ -6,6 +6,12 @@ I work as a Junior Takedown Analyst, identifying and mitigating digital threats 
 
 🗣️ I have an advanced level of English and I'm always looking to improve. I'm also learning Spanish and consistently practicing to expand my communication skills in international environments.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinRicardino/KevinRicardino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinRicardino/KevinRicardino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevinRicardino/KevinRicardino/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## 📬 Contact Me
