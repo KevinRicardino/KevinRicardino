@@ -37,12 +37,12 @@ Currently, I work as a Junior Takedown Analyst, identifying and mitigating digit
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api?username=KevinRicardino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-      style="height: 150px; width: auto; flex-shrink: 0; object-fit: contain; margin: 0; padding: 0; border: none;"
+      style="height: 120px; width: auto; flex-shrink: 0; object-fit: contain; margin: 0; padding: 0; border: none;"
     />
     <img
       alt="GitHub Stats"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRicardino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      style="height: 150px; width: auto; flex-shrink: 0; object-fit: contain; margin: 0; padding: 0; border: none;"
+      style="height: 120px; width: auto; flex-shrink: 0; object-fit: contain; margin: 0; padding: 0; border: none;"
     />
   </div>
 </center>
