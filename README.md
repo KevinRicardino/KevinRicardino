@@ -71,7 +71,7 @@ I work as a Junior Takedown Analyst, identifying and mitigating digital threats 
 
 <div align="left">
 
-[![Thumbnail do vídeo](images/instagram-thumbnail-1.jpg)](https://www.instagram.com/p/DIgZuFtx8f1/)
+[![Thumbnail do vídeo](Substituir-Image)](Link-Video)
 
 </div>
 
