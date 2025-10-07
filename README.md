@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kevin | IT Professional & Cybersecurity Enthusiast 👾
+# 👨🏻‍💻 Kevin | Takedown Analyst Jr. & Cybersecurity Enthusiast 👾
 
 ## 📝 About Me
 
@@ -14,18 +14,6 @@ I work as a Junior Takedown Analyst, identifying and mitigating digital threats 
 
 ---
 
-## 📬 Contact Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjoseber/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinricardino/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.j.bernardes@gmail.com)
-
-</div>
-
----
-
 ## 💻 Technologies and tools 🛠️
 
 <div align="left">
@@ -34,6 +22,29 @@ I work as a Junior Takedown Analyst, identifying and mitigating digital threats 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+## 📚 Currently Studying & Working On
+
+<div align="left">
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-005CFF?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjoseber/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.j.bernardes@gmail.com)
+
+</div>
+
+---
 
 <center>
   <div style="display: flex; flex-wrap: nowrap; overflow-x: hidden; justify-content: center; align-items: center; max-width: 640px;">
@@ -53,20 +64,3 @@ I work as a Junior Takedown Analyst, identifying and mitigating digital threats 
 </div>
 
 ---
-
-## 📚 Currently Studying & Working On
-
-<div align="left">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-005CFF?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-
-
-
-
-
