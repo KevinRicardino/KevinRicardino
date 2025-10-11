@@ -6,6 +6,11 @@ I support takedown processes with platforms, apply OSINT techniques, analyze dom
 🗣️ I have an advanced level of English and I'm always looking to improve.  
 I'm also learning Spanish and consistently practicing to expand my communication skills in international environments.
 
+## 📚 Currently Studying & Working On
+
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-005CFF?style=for-the-badge&logo=kalilinux&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
 ## 💻 Technologies and Tools 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,bash,powershell,postman)](https://skillicons.dev)
@@ -28,16 +33,6 @@ I'm also learning Spanish and consistently practicing to expand my communication
     />
   </div>
 </center>
-
-## 📚 Currently Studying & Working On
-
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-005CFF?style=for-the-badge&logo=kalilinux&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-
-## 📬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjoseber/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.j.bernardes@gmail.com)
 
 
 
