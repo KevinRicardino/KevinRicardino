@@ -13,7 +13,7 @@ I'm also learning Spanish and consistently practicing to expand my communication
 
 ## 💻 Technologies and Tools 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,bash,powershell,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,bash,powershell,postman,regex)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,windows,notion,godot,discord)](https://skillicons.dev)
 
