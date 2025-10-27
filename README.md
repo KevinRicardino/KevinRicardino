@@ -1,10 +1,11 @@
 # 👨🏻‍💻 Kevin | Takedown Analyst Jr. & Cybersecurity Enthusiast 👾
 
-I work as a Junior Takedown Analyst, identifying and mitigating digital threats such as phishing, scams, fake apps, and brand abuse.  
-I support takedown processes with platforms, apply OSINT techniques, analyze domain reputation, and collaborate with cybersecurity and legal teams to protect brand integrity.
-
-🗣️ I have an advanced level of English and I'm always looking to improve.  
-I'm also learning Spanish and consistently practicing to expand my communication skills in international environments.
+Profissional Analista de Takedown Júnior focado em Análise de Ameaças com experiência direta na mitigação de ameaças digitais e
+processos de Takedown. Experiência na aplicação de OSINT para identificar e neutralizar phishing, golpes, Fraude no Uso da Marca,
+Exposição de Dados Sensíveis e Vazamento de Dados, protegendo a integridade digital de grandes marcas.
+Possuo uma base técnica sólida em Suporte de TI, Administração de Sistemas (Windows/Linux) e Gestão de Ativos. Em formação
+ativa em Defesa Cibernética (FIAP) e com certificação Blue Team Junior Analyst, busco uma transição de carreira para as áreas de
+Cibersegurança, Blue Team, SOC ou CTI. Proficiência em Inglês Avançado (C1) para comunicação em ambientes globais.
 
 ## 📚 Currently Studying & Working On
 
