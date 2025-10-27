@@ -3,9 +3,12 @@
 Profissional Analista de Takedown Júnior focado em Análise de Ameaças com experiência direta na mitigação de ameaças digitais e
 processos de Takedown. Experiência na aplicação de OSINT para identificar e neutralizar phishing, golpes, Fraude no Uso da Marca,
 Exposição de Dados Sensíveis e Vazamento de Dados, protegendo a integridade digital de grandes marcas.
+
 Possuo uma base técnica sólida em Suporte de TI, Administração de Sistemas (Windows/Linux) e Gestão de Ativos. Em formação
 ativa em Defesa Cibernética (FIAP) e com certificação Blue Team Junior Analyst, busco uma transição de carreira para as áreas de
-Cibersegurança, Blue Team, SOC ou CTI. Proficiência em Inglês Avançado (C1) para comunicação em ambientes globais.
+Cibersegurança, Blue Team, SOC ou CTI. 
+
+Proficiência em Inglês Avançado (C1) para comunicação em ambientes globais.
 
 ## 📚 Currently Studying & Working On
 
